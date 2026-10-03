@@ -1,0 +1,29 @@
+body 
+{
+
+    background-image: url("Images/MainBackground.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.mainB
+{
+    background-color: rgb(37, 37, 37);
+
+    margin: auto;
+    margin-top: 20vh;
+
+    padding: vw;
+
+    height: 100rem;
+    width: 90vw;
+
+    box-sizing: border-box;
+}
+
+h1, h2, h3, p1, p11, p2, p21, li 
+{
+    color: white;
+}
